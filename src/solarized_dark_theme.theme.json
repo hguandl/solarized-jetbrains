@@ -343,7 +343,7 @@
 
     "WelcomeScreen": {
       "comments": "#713a91",
-      "Projects.selectionInactiveBackground": "#09D900",
+      "Projects.selectionInactiveBackground": "#586e75",
       "separatorColor": "#1a1721"
     }
   },
